@@ -48,3 +48,4 @@ This project has **no external dependencies**. It is built with plain HTML and C
 3. Open `index.html` in your browser (double-click it, or use the VS Code **Live Server** extension).
 
 ## 📁 Project Structure
+![FIFA World Cup 2026 landing page](screenshot.png)
