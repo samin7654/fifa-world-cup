@@ -1,6 +1,6 @@
 # ⚽ FIFA World Cup 2026 – Landing Page
 
-![FIFA World Cup 2026 landing page](assets/screenshot.png)
+![FIFA World Cup 2026 landing page](https://github.com/samin7654/fifa-world-cup/blob/main/Screenshot%202026-10-12%20184400.png)
 
 A responsive landing page for the **FIFA World Cup 2026**, designed to showcase the tournament, host cities, key matches and star players.
 
@@ -48,4 +48,4 @@ This project has **no external dependencies**. It is built with plain HTML and C
 3. Open `index.html` in your browser (double-click it, or use the VS Code **Live Server** extension).
 
 ## 📁 Project Structure
-![FIFA World Cup 2026 landing page](https://github.com/samin7654/fifa-world-cup/blob/main/Screenshot%202026-10-12%20184400.png)
+
