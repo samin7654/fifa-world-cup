@@ -48,4 +48,15 @@ This project has **no external dependencies**. It is built with plain HTML and C
 3. Open `index.html` in your browser (double-click it, or use the VS Code **Live Server** extension).
 
 ## 📁 Project Structure
+```
+fifa-world-cup/
+├── images/        # logos, city and player images
+├── index.html     # main page
+├── style.css      # styling
+├── prompts.md     # AI prompts used
+├── Screenshot 2026-10-12 184400.png
+└── README.md
+```
+## 👤 Author
 
+**MD. Samin Yasar** – [GitHub](https://github.com/samin7654)
